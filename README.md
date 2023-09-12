@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nemwel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5,CSS3,git,Javascript,Node.js,express,Mysql/MongoDb
-- 💞️ I’m looking to collaborate on learning and pair web development practice projects
+- 🌱 I’m currently learning HTML5,CSS3,git,Javascript,Node.js,express,PostgreSQLMysql/MongoDb
+- 💞️ I’m looking for opportunities to collaborate,learn and pair web development projects
 - 📫 Can be reached through nemwel@hotmail.com
 
 <!---
